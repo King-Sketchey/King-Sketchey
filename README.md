@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a chess engin
 - 📫 How to reach me sketcherfelix@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am starting coding this year
 
 <!---
 King-Sketchey/King-Sketchey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
